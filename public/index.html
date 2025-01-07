@@ -9,6 +9,8 @@
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>步行臺中</title>
 </head>
 <body>
@@ -92,7 +94,6 @@
               </div>
             </li>  -->
             <!--OTHER MENU ITEMS-->
-            <li><a class="nav-link" href="/">下載</a></li>
             <li><a class="nav-link" href="/blog/">所有文章</a></li>
             <li><a class="nav-link" href="/">關於專案</a></li> 
           </ul>
@@ -148,14 +149,30 @@
                   </div>
               </div>
             </section>
-      
-            <section>
-              <div class="container">
-                <article class="category flow">
-                  <h3>人本交通設計</h3>
-                </article>
+
+            <section class="highlight">
+              <div class="container flow">
+                <div class="highlight__content flow">
+                  <h1 class="highlight-title">一些臺中交通的基本問題與可行的改善方法 </h1>
+                  
+                  <p>報告《一些臺中交通的基本問題與可行的改善方法：從人行道、路
+                    口和停車問題看臺中交通》由 楊智富 同學撰寫，作者目前為外國語文系三年級學生。 
+                  </p>
+                  <p>
+                    本報告綜合了關於建構臺中行人安全交通的基本概念和解決方案，這些概念和方案基於作者的個人知識與觀點，可能存在錯誤或不足之處。
+                  </p>
+                  <p>
+                    然而，若您正尋求對人本交通（以人為本的交通）這一概念的基本
+                    介紹，並希望探討臺中交通問題，這份報告將是一個不錯的起點!
+                  </p>
+                  <a href="/blog/" class="btn btn--neutral"><i class="fa fa-download"></i>  下載報告 [PDF]</a>
+                </div>
+                <div>
+                  <img src="/images/report-cover-image.png" class="highlight__image">
+                </div>
               </div>
             </section>
+      
       
             <section id="featured-articles" class="featured-articles">
               <div class="container flow">
@@ -165,6 +182,20 @@
                 <p>
                   以下是一些優質文章，可以讓您對這個網站的內容有更深入的了解。
                 </p>
+
+               
+                  <div class="category">
+                    <article class="btn--neutral btn flow">
+                      <p>人本交通設計與分析</p>
+                    </article>
+                    <article class="btn--neutral btn flow">
+                      <p>國際案件</p>
+                    </article>
+                    <article class="btn--neutral btn flow">
+                      <p>臺中相關資訊</p>
+                    </article>
+                  </div>
+          
       
                 <ul role="list" class="articles__list flow"><li>
     <article class="snippet">
@@ -213,5 +244,17 @@
     <p>© 2020 Company Name. All rights reserved.</p>
   </footer>
     <script src="./javascript/script.js"></script>
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 </body>
 </html>

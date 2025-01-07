@@ -10,6 +10,7 @@
 }
 /*VARIABLES*/
 :root {
+  /*NAVIGATION BAR*/
   --dark-grey: #333333;
   --medium-grey: #636363;
   --light-grey: #eeeeee;
@@ -20,6 +21,7 @@
   --shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px,
     rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
 
+    /*OTHER*/
   --fs-300: 0.9375rem;
   --fs-400: 1.0625rem;
   --fs-500: 1.375rem;
@@ -35,8 +37,8 @@
 
   --clr-primary-200: hsla(169, 70%, 95%, 1);
   --clr-primary-300: hsla(169, 100%, 39%, 1);
-  --clr-primary-400: hsla(169, 100%, 26%, 1);
-  --clr-primary-500: hsla(169, 100%, 16%, 1);
+  --clr-primary-400: #1e3b4d;
+  --clr-primary-500: #001F3F;
 
   --clr-neutral-100: hsla(0, 0%, 100%, 1);
   --clr-neutral-300: hsla(0, 0%, 50%, 1);
@@ -119,6 +121,9 @@ button {
 /* NAVIGATION BAR*/
 .logo {
   margin-right: 1.5rem;
+  font-weight:bold;
+  font-size: var(--fs-500);
+  color: var(--clr-primary-500)
 }
 
 #nav-menu {
@@ -384,7 +389,7 @@ section,
    spacing */
 
    .flow > *:where(:not(:first-child)) {
-    margin-top: var(--flow-spacer, 1em);
+    margin-top: var(--flow-spacer, 1.25em);
   }
   
   .container {
@@ -438,13 +443,17 @@ section,
   Homepage
   /////////////////////// */
 
-.hero > div {
+.hero > div, .highlight > div {
   display: grid;
   grid-auto-flow: row;
   grid-auto-columns: 1fr;
   align-items: center;
+  justify-items: center;
   gap: 3em;
 }
+
+.highlight > div {
+  flex-direction: column; /* Stack items vertically */}
 
 .hero__image {
   width: 100%;
@@ -453,9 +462,22 @@ section,
 }
 
 @media (min-width: 45em) {
-  .hero > div {
+  .hero > div, .highlight > div {
     grid-auto-flow: column;
   }
+  
+  .highlight > div {
+    display: flex;
+    flex-direction: row-reverse; /* Image on the right, text on the left */
+    align-items: center;
+    gap: 3em;
+  }
+
+  .highlight__content,
+.highlight__image {
+  flex: 1; /* Make both elements take up equal space */
+}
+  
 }
 
 .featured-articles {
@@ -591,10 +613,38 @@ section,
   Category
   /////////////////////// */
 
-  .category{
-    background-color: #BCCCDC;
-    max-width: 180px;
+  .category-snippet{
+    background-color: var(--clr-primary-400);
+    color: var(--clr-neutral-100);
+    max-width: 190px;
     padding: 1rem;
     text-align: center;
     border-radius: 0.25em;
   }
+
+  .category{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .highlight{
+    background-color: var(--clr-primary-400);
+  }
+
+  .highlight__image{
+    max-width: 100%;
+    max-height: 80vh;
+    object-fit: cover;
+  }
+
+  .highlight-title{
+    color: var(--clr-neutral-100)
+  }
+
+  .highlight__content p{
+    color: var(--light-grey)
+  }
+
+  

@@ -9,6 +9,8 @@
       href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>My Fourth Article</title>
 </head>
 <body>
@@ -92,7 +94,6 @@
               </div>
             </li>  -->
             <!--OTHER MENU ITEMS-->
-            <li><a class="nav-link" href="/">下載</a></li>
             <li><a class="nav-link" href="/blog/">所有文章</a></li>
             <li><a class="nav-link" href="/">關於專案</a></li> 
           </ul>
@@ -164,5 +165,17 @@
     <p>© 2020 Company Name. All rights reserved.</p>
   </footer>
     <script src="./javascript/script.js"></script>
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
 </body>
 </html>
