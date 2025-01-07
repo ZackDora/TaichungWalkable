@@ -1,0 +1,48 @@
+---
+title: 步行臺中
+layout: 'base.njk'
+---
+            <section class="hero">
+              <div class="container flow">
+                  <div class="hero__content flow">
+                    <h1 class="section-title">歡迎來到步行臺中</h1>
+                    <p>這個網站匯總了我所探索的所有有關「人本交通」發展的資訊，以及我對於將其應用於台中的看法。</p>
+                    <p>以下是我最喜愛的一些文章，您也可以前往部落格頁面查看我所有的文章~</p>
+                    <div class="flex-group">
+                      <a href="#featured-articles" class="btn btn--primary">精選文章</a>
+                      <a href="/blog/" class="btn btn--neutral">所有文章</a>
+                    </div>
+                  </div>
+                  <div>
+                    <img src="//unsplash.it/510" alt="" class="hero__image">
+                  </div>
+              </div>
+            </section>
+      
+            <section>
+              <div class="container">
+                <article class="category flow">
+                  <h3>人本交通設計</h3>
+                </article>
+              </div>
+            </section>
+      
+            <section id="featured-articles" class="featured-articles">
+              <div class="container flow">
+                <h2 class="section-title">
+                  精選文章
+                </h2>
+                <p>
+                  以下是一些優質文章，可以讓您對這個網站的內容有更深入的了解。
+                </p>
+      
+                <ul role="list" class="articles__list flow">
+                  {%- for post in collections.featured | reverse -%}
+                        {%include 'article-snippet.njk'%}
+                {%- endfor %}
+                </ul>
+              </div>
+            </section>
+    </main>
+    
+
