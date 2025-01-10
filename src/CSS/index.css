@@ -679,4 +679,9 @@ section,
       justify-items: center;
     }
   }
+
+  .main-article ul > li, ol >li{
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+  }
   
