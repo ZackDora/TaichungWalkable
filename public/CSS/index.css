@@ -647,4 +647,36 @@ section,
     color: var(--light-grey)
   }
 
+  .hero__content span{
+    color: var(--primary-color)
+  }
+
+  .contact{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  
+
+  .resources-list {
+    display: grid;
+    grid-auto-flow: row;
+    grid-auto-columns: 1fr;
+    align-items: center;
+    justify-items: center;
+    gap: 3em;
+  }
+
+  .resources-image{
+    max-width: 200px;
+  }
+
+  @media (min-width: 45em) {
+    .resources-list{
+      grid-template-columns: repeat(auto-fit, minmax(200px,300px));
+      align-items: center;
+      justify-items: center;
+    }
+  }
   
