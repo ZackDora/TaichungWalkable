@@ -1,19 +1,55 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: 日本的車庫法，爲何台灣不采用？
+description: 每天，當我走出家門並走在街上，我不禁注意到兩側停放著大量非法停車的車輛。許多車輛從早到晚，一天又一天地停在那裡，佔用了不少街道空間。駕駛人也經常因為方便而隨意停車，無論是在自己家門前、商店門口，還是其他地方。  為了解決這個問題，有關引入日本的「車庫法」的提議曾多次被提起，每次都引發激烈的討論與反對。那麼，為什麼台灣無法實行「車庫法」呢？
+author: 楊智富
 date: 2021-05-01
-tags: ["post", "featured"]
-image: /images/blog/article-1.jpg
-imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+tags:
+  - post
+  - featured
+image: /images/IMG_20241102_140619.jpg
+imageAlt: 台灣為處都可以見到一樓住戶將道路當自家車位的亂象。
 ---
+## **車庫法的基本內容**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+1. **購車前必須證明有停車位** 想要購買汽車的人必須證明他們擁有合法的停車位。停車位證明（車庫證明，Shako Shomei）是註冊新車或轉讓車輛所有權的必要文件。
+2. **向當地機關註冊** 車主必須向當地警察局申請停車位證明。在申請過程中，申請人需提供停車位置的具體資訊（例如租賃停車場或私人擁有的停車位）。
+3. **合法停車位的要求** 停車位必須滿足以下條件： • 從住所到停車場的距離：停車位必須在車主住所2公里範圍內。 • 不佔用公共空間：停車位不能位於人行道或公共道路上。
+4. **實地檢查與驗證** 警察或相關機構會進行實地檢查，以確保停車位存在並符合法律規定的要求。經過驗證後，停車位證明將發放，允許車主進行後續的車輛登記等步驟。
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+## **車庫法的目標**
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+* **目標範圍**：主要針對都市區或人口密度高的地區。
+* **減少非法停車現象**：此規定幫助減少街道或禁止停車的地方亂停車的行為。非法停車罰款遠高於停車費用，這會促使人們選擇合法停車來節省費用。
+* **控制私人車輛數量**：鼓勵市民在購車時謹慎考慮，從而減少對都市交通的壓力。擁有合法停車位的要求意味著購車者必須額外支付租車位或購買車位的費用，尤其在東京或大阪等大城市，停車位租金可能非常高。這促使人們在購車前謹慎考慮，特別是那些生活在有發達公共交通的地區的人。
+* **優化都市空間的使用**：確保每輛車都有適當的停車空間，不會佔用公共空間。在像東京這樣擁擠的地方，如果沒有車庫法，車輛在路邊或人行道上非法停放會阻礙交通，並且破壞城市環境。確保每輛車都有專屬停車位，有助於將公共空間還給行人和其他交通工具。
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+## **車庫法的局限性**
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+* **對車輛數量的控制**：此法規只要求車主證明擁有停車位，並未直接限制個人或家庭擁有的車輛數量。在一些空間較為寬敞的郊區或農村，提供停車位的要求容易達成，因此這些地區的車輛數量不會被限制。
+* **費用問題**：在東京、大阪等城市，停車位租金非常高，甚至可能超過購車費用，這對低收入或中等收入者來說是一種沉重的經濟負擔，或者讓都市居民覺得不公平，因為他們需要承擔比郊區和農村居民更高的費用。這可能導致一些人違法使用非法停車位或偽造地址。
+
+## **為什麼台灣無法實行車庫法？**
+
+第一個原因是擔心如果台灣實施類似的法律或政策，許多市民可能無力支付停車費用，因為他們的住所沒有停車位，需要額外建設或租用停車位。台灣近年來一直面臨房價高漲的問題，加上停車位供需失衡，如果實行該法，可能會導致停車位或房地產價格繼續上升，當費用上升時，民眾無疑會感到不滿。
+
+第二個原因是改變習慣的困難。長期以來，許多駕駛者習慣於違規停車，把街道上的空地當作自己的停車場。一旦實行該法，過去的「自由停車權」被剝奪，必然會引發許多爭議和反對。
+
+這兩個原因也導致第三個原因，即台灣政府通常非常重視民眾的意見，甚至只要有一點反對聲音，一項政策或法律就很難通過。此外，台灣各政黨對交通問題有不同看法，這使得任何改革都變得更加困難。
+
+## **我的解決方案**
+
+首先，我認為**購車必須擁有停車位是一個無可爭議的合理要求**。如果沒有停車位卻購車，佔用公共空間停車，對國家和其他市民都不公平。擁有車輛，不論是摩托車還是汽車，都需要支付相應的費用，換取如行動自由或私人空間等價值。事實上，目前的車輛擁有費用和停車費相較於停車對社會造成的各種不便來說，還算便宜：從佔用已經有限的空間到造成交通擁堵和安全隱患。因此，我可以理解經濟困難者的擔憂，但無法接受讓人購車而不提供停車位的做法。
+
+儘管我不支持建設停車場，正如我在報告中所提到的原因，但考慮到目前供需不平衡和市民的經濟困難，**建設新的停車場是必要的**。然而，這些停車場不應該設置在主要道路旁，或者最好根本不要設置在道路旁。相反，地下停車場或多層停車場會是一個更好的選擇，無論是從交通秩序還是城市空間優化角度來看。這些停車位可以根據交通流量或停車需求來決定，這些數據可以通過智能交通系統收集。政府應要求新建的商業或住宅樓宇在建設之前，必須設計符合標準的停車位。
+
+## **從長期來看，問題不應該只是單純地建設更多停車位。**
+
+建設停車位本身就是在鼓勵市民更多地使用汽車，並且隨著車輛數量的增長，停車位的需求會持續增加，最終造成停車位不足的惡性循環。即使某一時刻停車位可以滿足需求，所需的空間也會非常龐大，尤其在都市中，這樣的情況顯然不應該發生。
+
+**長期解決的方案應該是通過徵稅或設立許可證制度**（例如新加坡的COE制度）來控制市場上車輛的數量，進而解決停車位不足的問題。當車輛數量受到限制時，擁有車輛的成本會增加，使市民在購車時更加謹慎。
+
+然而，如果一座城市本身的設計是為了車輛而建設的，增加購車成本無疑會引起許多反對，並阻礙市民基本出行的權利。因此，與限制車輛數量並行的，應該是**改進其他交通方式**，如公共交通系統。為了讓市民選擇放棄汽車，最好的方法是讓他們感受到公共交通系統可以提供同樣或更好的選擇。政府應該評估資源，決定應該投資於哪一種交通工具：自行車、巴士還是地鐵。同時，我所說的「投資」，不僅僅是指建設新設施，還包括給予這些交通方式更多的優先權，比如專用車道、良好的設計、補貼等等。這些優先權不應該被視為不公平。一輛巴士或地鐵可以運輸更多的人，同時佔用更少的空間。即使是一輛自行車，雖然受到路程和人數的限制，移動或停車所佔的空間也比汽車少。
+
+## **總結**
+
+實行車庫法或至少是其核心理念——「擁有停車位才能購車」，無疑是必要的，這樣才能改善城市秩序，並更好地控制私人車輛數量。當然，停車問題還有許多其他解決方案，我希望在未來的文章中能進一步探討，但台灣實施車庫法已經是長期以來的問題，應該儘快落實。
